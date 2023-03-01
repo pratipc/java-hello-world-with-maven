@@ -5,8 +5,8 @@ This guide walks you through using Maven to build a simple Java project.
 You’ll create an application that provides the time of day and then build it with Maven.
 
 ## What you’ll need
-+ A favorite text editor or IDE
-+ JDK 6 or higher version
++ A favorite text editor or you can get an IDE
++ JDK 6 or any higher version
 + Install Maven( don't install alpha)
 
 ## Install Maven.
