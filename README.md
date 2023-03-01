@@ -6,7 +6,7 @@ You’ll create an application that provides the time of day and then build it w
 
 ## What you’ll need
 + A favorite text editor or you can get an IDE
-+ JDK 6 or any higher version
++ JDK 6 or higher version
 + Install Maven( don't install alpha)
 
 ## Install Maven.
